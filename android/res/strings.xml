@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fish Feeder</string>
+    <string name="check_feed_time">Check Feed Time</string>
+    <string name="info">info</string>
+    <string name="made_by_mvths_robotics">Made by MVTHS Robotics</string>
+    <string name="feed_now">feed now</string>
+    <string name="daily_feed_time">Daily feed time</string>
+    <string name="feed_time_seconds">Feed time (seconds)</string>
+</resources>
